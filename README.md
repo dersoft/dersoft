@@ -10,6 +10,6 @@
   
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="dersoft-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="dersoft-Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
