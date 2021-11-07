@@ -1,6 +1,10 @@
 <h2>Olá, eu sou Enderson!</h2>
 
-- 👨‍💻 Estou estudando Java
+- 👨‍💻 Estou estudando <div style="display: inline_block"><br>
+  
+  <img align="center" alt="dersoft-Java" height="10" width="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+</div>
 
 <div align="center">
   <a href="https://github.com/dersoft">
