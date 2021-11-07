@@ -1,19 +1,13 @@
 <h2>Olá, eu sou Enderson!</h2>
 
-- 👨‍💻 Estou estudando <div style="display: inline_block"><br>
-  
-  <img align="center" alt="dersoft-Java" height="10" width="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-</div>
+- 👨‍💻 Estou estudando<img align="left-center" alt="dersoft-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <div align="center">
   <a href="https://github.com/dersoft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dersoft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dersoft&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dersoft&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dersoft&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  
+<div style="display: inline_block"><br>
   <img align="center" alt="dersoft-Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
 </div>
