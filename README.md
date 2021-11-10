@@ -1,6 +1,6 @@
 <h2>Olá, eu sou Enderson!</h2>
 
-- 👨‍💻 Estou estudando<img align="left-center" alt="dersoft-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+- 👨‍💻 Estou estudando<img align="left-center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <div align="center">
   <a href="https://github.com/dersoft">
@@ -9,5 +9,5 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="dersoft-Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java-Icon" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
