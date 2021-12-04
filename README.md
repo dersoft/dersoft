@@ -34,9 +34,4 @@
  <a href="https://nodejs.org/en/">
     <img align="center" alt="dersoft-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  </a>
-  
-<!--Electron-->
- <a href="https://www.electronjs.org/">
-    <img align="center" alt="dersoft-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
- </a>
 </div>
